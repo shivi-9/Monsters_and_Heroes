@@ -3,9 +3,13 @@ This is a text-based role playing game game built in Java, where the player cont
 
 ## Installation
 To run this game, you must have Java installed on your computer. Clone this repository to your local machine, and navigate to the directory where the repository is located in your terminal or command prompt. Then, run the following command:
+
 javac *.java
 
-This will compile all of the Java files. To start the game, run the following command:
+This will compile all of the Java files. 
+
+To start the game, run the following command:
+
 java GameEngine
 
 ## How to Play
